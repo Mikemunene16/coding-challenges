@@ -21,6 +21,14 @@ For example, if the speed is 80, it should print: “Points: 2”. If the driver
 ## Challenge 3 : Net Salary Calculator
 
 It's a program that takes the basic salary and benefits of an employee, then calculates the Payee Tax, NHIF, NSSF Deductions and net salary.
+Choose among these benefits:
+-Personal Relief
+-Insurance Relief
+-Allowable Pension Fund Contribution
+-Affordable Housing Relief
+-Allowable Owner Occupier Interest
+-Disability Exemption
+
 
 ## Behaviour Driven Development (B.D.D)
 
